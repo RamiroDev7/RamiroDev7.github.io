@@ -56,20 +56,20 @@ html {
 }
 
 .contactImg {
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     margin: auto;
-    padding: 7px;
-}
-
-.img {
-    width: 30px;
-    height: 30px;
     background-color: #F5F5DC;
+    padding: 7px;
     border-radius: 50%;
 }
 
-.img:hover {
+.img {
+    width: 40px;
+    height: 40px;
+}
+
+.contactImg:hover {
     background-color: #a3a392;
 }
 
