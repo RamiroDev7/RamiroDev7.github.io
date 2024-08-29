@@ -59,9 +59,12 @@ html {
     width: 30px;
     height: 30px;
     margin: auto;
-    background-color: #F5F5DC;
     padding: 7px;
     border-radius: 50%;
+}
+
+.img {
+    background-color: #F5F5DC;
 }
 
 .contactImg:hover {
